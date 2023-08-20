@@ -1,2 +1,1 @@
-# beluga-123.github.io
-This is a cool web
+Welcome to __BeluFan Ey__ official website
